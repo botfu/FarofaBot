@@ -1907,7 +1907,7 @@
             },
 
             cookieCommand: {
-                command: ['troll', 'thebosh', 'zoeira'],
+                command: 'thebosh',
                 rank: 'user',
                 type: 'startsWith',
                 getCookie: function (chat) {
