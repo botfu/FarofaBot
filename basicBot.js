@@ -1907,7 +1907,7 @@
             },
 
             cookieCommand: {
-                command: 'cookie',
+                command: ['troll', 'thebosh', 'zoeira'],
                 rank: 'user',
                 type: 'startsWith',
                 getCookie: function (chat) {
@@ -2951,7 +2951,7 @@
             },*/
 
             rulesCommand: {
-                command: 'rules',
+                command: ['rules', 'regras'],
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
