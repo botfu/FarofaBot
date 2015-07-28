@@ -2951,7 +2951,7 @@
             },*/
 
             rulesCommand: {
-                command: ['rules', 'regras'],
+                command: 'rules',
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
